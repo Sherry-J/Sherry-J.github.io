@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hello MyGithub
 
 You can use the [editor on GitHub](https://github.com/Sherry-J/Sherry-J.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
